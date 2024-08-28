@@ -1,0 +1,75 @@
+{
+  "home": [
+    {
+      "intro": [
+        {}
+      ],
+      "about": [
+        {}
+      ],
+      "expertise": [
+        {}
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Website name",
+      "description": "A React component for displaying and managing blog comments, including author information and profile images fetched from a server.",
+      "technologies": [
+        "React",
+        "Axios"
+      ],
+      "thumbnail": "https://media.dev.to/cdn-cgi/image/width=1600,height=900,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwhh1lpihw7h587pb2iuc.png",
+      "liveLink": ""
+    }
+  ],
+  "blogs": [
+    {
+      "id": 1,
+      "title": "Understanding React Hooks",
+      "author": "John Doe",
+      "date": "2024-08-15",
+      "content": "React Hooks are a new addition in React 16.8 that lets you use state and other React features without writing a class.",
+      "tags": [
+        "React",
+        "Hooks",
+        "JavaScript"
+      ],
+      "thumbnail": "https://example.com/path/to/thumbnail.jpg",
+      "category": "Programming",
+      "readTime": "5 min read",
+      "comments": [
+        {
+          "id": 1,
+          "author": "Jane Smith",
+          "date": "2024-08-16",
+          "content": "Great article! I learned a lot about hooks."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Getting Started with TypeScript",
+      "author": "Alice Johnson",
+      "date": "2024-08-10",
+      "content": "TypeScript is a strongly typed programming language that builds on JavaScript, giving you better tooling at any scale.",
+      "tags": [
+        "TypeScript",
+        "JavaScript",
+        "Development"
+      ],
+      "thumbnail": "https://example.com/path/to/another-thumbnail.jpg",
+      "category": "Programming",
+      "readTime": "7 min read",
+      "comments": [
+        {
+          "id": 2,
+          "author": "Bob Brown",
+          "date": "2024-08-11",
+          "content": "This is a very informative post. Thanks for sharing!"
+        }
+      ]
+    }
+  ]
+}
