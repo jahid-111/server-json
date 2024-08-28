@@ -1,0 +1,58 @@
+{
+    "posts": [
+      { "id": "1", "title": "a title", "views": 100 },
+      { "id": "2", "title": "another title", "views": 200 }
+    ],
+    "comments": [
+      { "id": "1", "text": "a comment about post 1", "postId": "1" },
+      { "id": "2", "text": "another comment about post 1", "postId": "1" }
+    ],
+    "profile": {
+      "name": "typicode"
+    },
+    "user" : {
+  "name": "Mohd",
+  "title": "Junior React Developer",
+  "bio": "A passionate and dedicated junior React developer with hands-on experience in building dynamic and responsive web applications. Specializes in HTML, CSS, Bootstrap, TailwindCSS, JavaScript, and React, creating custom and user-friendly web experiences. Mohd values communication and collaboration, working closely with clients to ensure their needs are met and exceeded.",
+  "skills": [
+    "HTML",
+    "CSS",
+    "Bootstrap",
+    "TailwindCSS",
+    "JavaScript",
+    "React",
+    "Axios"
+  ],
+  "experience": [
+    {
+      "role": "Frontend Developer",
+      "description": "Developed and maintained responsive web applications using React, enhancing user experience through innovative UI designs and efficient state management."
+    }
+  ],
+  "projects": [
+    {
+      "name": "Blog Comments",
+      "description": "A React component for displaying and managing blog comments, including author information and profile images fetched from a server.",
+      "technologies": ["React", "Axios"]
+    },
+    {
+      "name": "Smart Gadget Facebook Marketing",
+      "description": "Created market advertising content and strategies to attract consumers for a mobile shop using targeted Facebook posts.",
+      "technologies": ["Content Strategy", "Social Media Marketing"]
+    }
+  ],
+  "shop": {
+    "name": "Smart Gadget",
+    "location": "পৌর আধুনিক সুপার মার্কেট, ব্রাহ্মণবাড়িয়া, 3rd Floor, East Side, Shop No. 34",
+    "contact_number": "01786-787477",
+    "email": "mdzillur2314@gmail.com",
+    "hours": "10 AM - 9 PM",
+    "policies": [
+      "7-day replacement warranty",
+      "Cash memo required for purchases",
+      "Exchange available for selected products"
+    ]
+  }
+}
+
+  }
